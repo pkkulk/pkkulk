@@ -6,7 +6,7 @@
   - Linkedln: https://www.linkedin.com/n/prathmesh-kulkarni-57972722b/
   - twitter: https://x.com/SKulkarni872000?t=lszF5pGDt7Na4Hb8s-qvxg&s=09
   - Instagram: https://www.instagram.com/prathmesh_kulkarnii/profilecard/?igsh=MXUwM28yam82bmtveQ==
-- 😄 Pronouns: prathmesh
+- 😄 Pronouns:pk
 - ⚡ Fun fact: ...
 
 <!---
