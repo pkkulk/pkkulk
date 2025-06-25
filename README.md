@@ -6,7 +6,7 @@
   - portfolio : https://portfolio-prathmesh-kulkarni-ij1q.vercel.app/
   - Linkedln: https://www.linkedin.com/in/prathmeshkulkarni
   - twitter: https://x.com/SKulkarni872000?t=lszF5pGDt7Na4Hb8s-qvxg&s=09
-  - Instagram: https://www.instagram.com/prathmesh_kulkarnii/profilecard/?igsh=MXUwM28yam82bmtveQ==
+  - Instagram: https://www.instagram.com/prathmesh_kulkarni18
 - 😄 Pronouns:pk
 - ⚡ Fun fact: ...
 
