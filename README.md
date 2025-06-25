@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on opensource project and website development
 - - 📫 How to reach me ...
   - portfolio : https://portfolio-prathmesh-kulkarni-ij1q.vercel.app/
-  - Linkedln: https://www.linkedin.com/n/prathmeshkulkarni
+  - Linkedln: https://www.linkedin.com/in/prathmeshkulkarni
   - twitter: https://x.com/SKulkarni872000?t=lszF5pGDt7Na4Hb8s-qvxg&s=09
   - Instagram: https://www.instagram.com/prathmesh_kulkarnii/profilecard/?igsh=MXUwM28yam82bmtveQ==
 - 😄 Pronouns:pk
