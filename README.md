@@ -1,53 +1,69 @@
-<h1 align="center">Hey there! I'm Prathmesh Kulkarni 👋</h1>
+<h1 align="center">Hi, I'm Prathmesh Kulkarni 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Student;Web+Developer+%7C+ML+Learner;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;AI+%26+Data+Science+Enthusiast;Open+Source+Contributor;Tech+Explorer+%7C+Team+Player" alt="Typing SVG" />
 </p>
 
 ---
 
-🎓 **Currently:**  
-I'm in my **third year** of pursuing a **B.E. in Artificial Intelligence and Data Science**.
+### 👨‍💻 About Me
 
-💡 **Interests:**  
-- Web Development (Frontend + Backend)  
-- Data Science & Machine Learning  
-- Open Source Projects  
+- 🎓 Third year B.E. student in **Artificial Intelligence & Data Science** (SGPA: 8.90)  
+- 💡 Passionate about **Web Development**, **Machine Learning**, and **Data Science**
+- 🧠 Building real-world apps, solving data problems, and contributing to open-source
+- 🤝 Always open to **collaborate on development** and **AI/ML innovations**
+- 💼 Previous internships in ML, Android, and Web Dev with real implementation work
 
-💻 **Tech I'm Working With:**  
-- 🔧 Backend: `Node.js`, `Express.js`, `MongoDB`, `Firebase`  
-- 🌐 Frontend: `React.js`, `Next.js`, `Tailwind CSS`  
-- 📊 Data Science: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn`  
-- 📦 Others: `Git`, `Docker`, `Postman`, `Figma`
+---
 
-🚀 **Currently Learning:**  
-- Backend API development using Node.js & Express.js  
-- Data preprocessing and analysis in Data Science  
+### 🛠️ Tech Stack
 
-🤝 **Open to Collaborate On:**  
-- Web development projects  
-- AI/ML research or mini-projects  
-- Open-source contributions
+**Languages & Frameworks**  
+`JavaScript` `Python` `C++` `Java` `Kotlin`  
+`React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `TensorFlow` `Flask`
 
-📫 **Reach me via:**  
-<p align="left">
+**Databases & Tools**  
+`MongoDB` `SQL` `Git` `GitHub` `Postman` `VS Code`  
+**Cloud:** `AWS RDS` `GCP Map`
+
+**Machine Learning & Data**  
+`NumPy` `Pandas` `Scikit-learn` `Matplotlib` `SciPy` `NLTK`  
+Data preprocessing, model training, and evaluation
+
+---
+
+### 🔗 Connect With Me
+
+<p>
+  <a href="mailto:prathmeshkulkarni312@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://portfolio-prathmesh-kulkarni-ij1q.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/prathmeshkulkarni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prathmeshkulkarni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/pkkulk" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/pkkulk/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://x.com/SKulkarni872000?t=lszF5pGDt7Na4Hb8s-qvxg&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/prathmesh_kulkarni18" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-😄 **Pronouns:** `pk`  
-⚡ **Fun Fact:** I can explain code and memes with equal energy!
+---
+
+### 🏆 Roles & Achievements
+
+- 👨‍💼 **Technical Head** – aIDEAS Association  
+- 📲 **Social Media Head** – Training & Placement Cell  
+- 📜 **Certified In**:
+  - Google Career Certificate in **Generative AI**  
+  - DeepLearning.ai – **Machine Learning Specialization**  
+  - IBM – **Data Science Certificate**
 
 ---
 
-### 🛠️ GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pkkulk&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkkulk&layout=compact&theme=radical" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pkkulk&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkkulk&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-🌟 *Let's build cool things together!* 🚀  
+> _“Learning daily, building smart, and contributing with purpose.”_ 🚀
