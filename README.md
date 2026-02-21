@@ -12,7 +12,7 @@
 - 💡 Interested in **Web Development**, **Machine Learning**, and **Data Science**
 - 💼 Gained hands-on experience through internships in ML, Web, and Android Development
 - 🤝 Open to collaborate on web apps, ML tools, and open-source projects
-- 📚 SGPA: **8.90** | Diploma: **89.06%**
+- 📚 SGPA: **9.25** | Diploma: **89.06%**
 
 ---
 ## 🧰 Tech Stack
