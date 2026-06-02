@@ -8,8 +8,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 Final year **B.E. in Artificial Intelligence & Data Science** at **PVG COET, Pune (SPPU)**  
-- 💡 Interested in **Web Development**, **Machine Learning**, and **Data Science**
+- 💡 Interested in ** Full-Stack Development**, **Machine Learning**, and **Data Science**
 - 💼 Gained hands-on experience through internships in ML, Web, and Android Development
 - 🤝 Open to collaborate on web apps, ML tools, and open-source projects
 - 📚 SGPA: **9.25** | Diploma: **89.06%**
@@ -54,7 +53,7 @@
 
 ### 🏅 Roles & Certifications
 
-- 🧠 **Technical Head** – aIDEAS Association  
+- 🧠 **Technical Head** – aIDEAS Association
 - 📱 **Social Media Head** – Training & Placement Cell  
 - 🧾 **Certifications**:  
   - Google Career Certificate in **Generative AI**  
